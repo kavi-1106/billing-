@@ -1,0 +1,36 @@
+.tabl{
+    width:50%;
+    text-align: center;
+    
+}
+th{
+    background-color: mediumpurple;
+    padding: 20px;
+}
+td{
+    background-color:lightgray;
+    padding: 10px;
+}
+input{
+    background-color: transparent;
+    font-size: medium;
+    outline: none;
+    border: none;
+    
+}
+button{
+    padding: 20px;
+    background-color:lightgrey;
+}
+button:hover{
+     background-color: blueviolet;
+}
+#grandtotal{
+    margin-left:75%;
+    
+}
+#discount{
+    margin-left:75%
+}
+
+
